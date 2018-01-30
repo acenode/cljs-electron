@@ -1,6 +1,6 @@
 # Notice
 
-Modified from Gonzih/cljs-electron 
+Electron react-om app template,modified from Gonzih/cljs-electron 
 
 ____
 
